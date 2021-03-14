@@ -1,0 +1,5 @@
+Credentials cache: API:20D45AE2-FCE0-4858-BBE1-3BEE730B4076
+        Principal: jdamoise@42.FR
+
+  Issued                Expires               Principal
+Jun 29 14:25:44 2020  Jul  6 13:07:06 2020  krbtgt/42.FR@42.FR
